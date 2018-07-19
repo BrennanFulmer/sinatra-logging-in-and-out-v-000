@@ -28,6 +28,7 @@ class ApplicationController < Sinatra::Base
     
       erb :account
     else
+      
     end
   end
 
